@@ -1,0 +1,15 @@
+A:\GeekBrains\Git_Базы\Examples\Exa1\bin\Debug\net6.0\Exa1.exe
+A:\GeekBrains\Git_Базы\Examples\Exa1\bin\Debug\net6.0\Exa1.deps.json
+A:\GeekBrains\Git_Базы\Examples\Exa1\bin\Debug\net6.0\Exa1.runtimeconfig.json
+A:\GeekBrains\Git_Базы\Examples\Exa1\bin\Debug\net6.0\Exa1.dll
+A:\GeekBrains\Git_Базы\Examples\Exa1\bin\Debug\net6.0\Exa1.pdb
+A:\GeekBrains\Git_Базы\Examples\Exa1\obj\Debug\net6.0\Exa1.csproj.AssemblyReference.cache
+A:\GeekBrains\Git_Базы\Examples\Exa1\obj\Debug\net6.0\Exa1.GeneratedMSBuildEditorConfig.editorconfig
+A:\GeekBrains\Git_Базы\Examples\Exa1\obj\Debug\net6.0\Exa1.AssemblyInfoInputs.cache
+A:\GeekBrains\Git_Базы\Examples\Exa1\obj\Debug\net6.0\Exa1.AssemblyInfo.cs
+A:\GeekBrains\Git_Базы\Examples\Exa1\obj\Debug\net6.0\Exa1.csproj.CoreCompileInputs.cache
+A:\GeekBrains\Git_Базы\Examples\Exa1\obj\Debug\net6.0\Exa1.dll
+A:\GeekBrains\Git_Базы\Examples\Exa1\obj\Debug\net6.0\refint\Exa1.dll
+A:\GeekBrains\Git_Базы\Examples\Exa1\obj\Debug\net6.0\Exa1.pdb
+A:\GeekBrains\Git_Базы\Examples\Exa1\obj\Debug\net6.0\Exa1.genruntimeconfig.cache
+A:\GeekBrains\Git_Базы\Examples\Exa1\obj\Debug\net6.0\ref\Exa1.dll
